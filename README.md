@@ -1,6 +1,6 @@
 # WEB-FE-JS-HW3-EMILYROLDAN
 
-# JS Playground
+# JavaScript Explorer
 
 This repository contains an interactive guide to fundamental JavaScript concepts. Each section is designed to provide a clear explanation and practical examples of different aspects of JavaScript.
 
