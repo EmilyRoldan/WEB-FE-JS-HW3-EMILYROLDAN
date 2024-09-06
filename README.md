@@ -35,4 +35,4 @@ git clone https://github.com/yourusername/your-repository-name.git
 
 
 
-## ✨ Feel free to explore this project to get a detailed view of key JavaScript concepts! ✨
+## ✨ Feel free to explore this project to get a view of key JS concepts! ✨
